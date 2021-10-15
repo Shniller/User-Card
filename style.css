@@ -1,0 +1,21 @@
+.container {
+    background-color: blue;
+    padding-top: 60px;
+    width: 600px;
+    border-style: solid;
+}
+.content {
+    background: burlywood;
+    padding: 20px;
+}
+.profile-pic {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.content img {
+    width: 20px;
+    height: 20px;
+}
